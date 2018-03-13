@@ -2,10 +2,10 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Tale
+title:          Jeoun
 paginate:       5
 baseurl:        ""
-url:            "https://chesterhow.github.io/tale"
+url:            "https://jeoun.github.io/"
 
 # Assets
 sass:
@@ -17,15 +17,15 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Chester How
-  url:          http://chester.how
-  email:        chesterhow@gmail.com
+  name:         Jeoun
+  url:          http://jeoun.github.io/
+  email:        ''
 
 # Custom vars
 version:        3.4.1
 github:
-  repo:         https://github.com/chesterhow/tale
+  repo:         https://github.com/jeoun/jeoun.github.io
 
 # Gems
-gems:
+plugins:
   - jekyll-paginate
